@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Capture The Flag Legends",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a FiveM server for exciting CTF challenges, focusing on immersive gameplay and custom features.",
+    url: "https://discord.gg/NJFrp4wRQr",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Lucentix Portfolio Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built a personal portfolio website showcasing my Fullstack Developer skills, projects, and experience.",
+    url: "https://lucentix.github.io",
   },
   {
-    title: "My Resume Site",
+    title: "FiveM Installer Bot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a bot to simplify the installation of custom FiveM resources with seamless integration to Discord.",
+    url: "https://github.com/cuzimstupi4/fivem-installer-bot",
   },
 ];
 

@@ -24,28 +24,30 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Fullstack Developer with a focus on web development, gaming, and cybersecurity. I enjoy building secure, efficient systems with modern technologies.";
 
 /**
- * List of some of skills or technologies you work on, are learning,
- * passionate about, or enjoy,
+ * List of some of the skills or technologies I work on, am learning, 
+ * passionate about, or enjoy.
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "Cybersecurity",
+  "JavaScript (JS)",
+  "React",
+  "Node.js",
+  "Lua",
+  "PHP",
+  "Gaming projects",
+  "Open-source software",
 ];
 
 /**
- * Use this to give more information about what you are passionate about,
- * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
+ * Use this to give more information about what I am passionate about, 
+ * how I work, or even a quote. This helps others understand my approach.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I’m passionate about creating secure, efficient systems and pushing the boundaries of my projects. I strive for continuous improvement and innovation.";
 
 const About = () => {
   return (
