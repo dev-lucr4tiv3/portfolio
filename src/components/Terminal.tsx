@@ -9,7 +9,7 @@ const Terminal: React.FC = () => {
   useEffect(() => {
     // Simulate typing the command
     const timer = setTimeout(() => {
-      setPrompt('lucentix@x-service:~$ npx lucentix');
+      setPrompt('lucentix@lucentix.me:~$ npx lucentix');
       setCommandExecuted(true);
     }, 2000);
     

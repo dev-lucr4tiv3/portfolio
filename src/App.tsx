@@ -29,7 +29,7 @@ function App() {
           >
             <div className="flex items-center">
               <Code className="w-6 h-6 text-green-400 mr-2" />
-              <h1 className="text-xl font-mono font-bold text-white">lucentix.dev</h1>
+              <h1 className="text-xl font-mono font-bold text-white">lucentix.me</h1>
             </div>
             <div className="text-sm font-mono text-green-400">Clean. Code. Chaos.</div>
           </motion.div>
