@@ -11,7 +11,7 @@ import { Code, Zap } from 'lucide-react';
 function App() {
   useEffect(() => {
     // Update the document title
-    document.title = "lucentix.dev | Clean. Code. Chaos.";
+    document.title = "lucentix.me | Clean. Code. Chaos.";
   }, []);
 
   return (
